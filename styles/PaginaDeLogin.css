@@ -183,7 +183,7 @@
 .container-links__link {
   display: flex;
   justify-content: center;
-  gap: .75em;
+  gap: .25em;
   color: var(--verde-destaque);
   font-size: 18px;
   text-decoration: none;
